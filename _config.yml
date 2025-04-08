@@ -1,3 +1,5 @@
+theme: jekyll-theme-cayman
+
 title: Tanzeem Ahmed
 description: A professional portfolio and personal site showcasing the journey of Tanzeem Ahmed, an entrepreneur, and innovator.
 url: https://tanzeemahmedentrepreneur.github.io
@@ -12,9 +14,6 @@ social_links:
     url: https://www.instagram.com/tanzeem.ahmed_sadman
   - name: LinkedIn
     url: https://www.linkedin.com/in/tanzeem-ahmed-sakib/
-
-# Theme settings
-theme: jekyll-theme-minimal
 
 # Navigation settings
 navbar:
