@@ -1,0 +1,41 @@
+title: Tanzeem Ahmed
+description: A professional portfolio and personal site showcasing the journey of Tanzeem Ahmed, an entrepreneur, and innovator.
+url: https://your-username.github.io
+baseurl: ""
+author: Tanzeem Ahmed
+
+# Social media links
+social_links:
+  - name: Facebook
+    url: https://www.facebook.com/tanzeem.ahmed.sakib
+  - name: Instagram
+    url: https://www.instagram.com/tanzeem.ahmed_sadman
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/tanzeem-ahmed-sakib/
+
+# Theme settings
+theme: jekyll-theme-cayman
+
+# Navigation settings
+navbar:
+  enabled: true
+  links:
+    - title: Home
+      url: "/"
+    - title: About Me
+      url: "/about/"
+    - title: Ventures
+      url: "/ventures/"
+    - title: Works
+      url: "/works/"
+    - title: Contact
+      url: "/contact/"
+
+# Dark mode (optional)
+dark_mode: true
+
+# SEO and structured data (optional)
+seo:
+  enable: true
+  description: "Learn about Tanzeem Ahmed's journey as an entrepreneur, explore their ventures, and discover more about their work."
+  keywords: "Tanzeem Ahmed, entrepreneur, tech, gadgets, fashion, portfolio"
