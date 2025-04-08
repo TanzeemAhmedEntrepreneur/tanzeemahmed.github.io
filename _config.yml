@@ -3,15 +3,19 @@ description: Personal site of Tanzeem Ahmed – Young Entrepreneur from Banglade
 url: "https://github.com/TanzeemAhmedEntrepreneur/tanzeemahmed"
 baseurl: ""
 
+
 theme: jekyll-theme-cayman
+
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  
 
 author:
   name: Tanzeem Ahmed
   email: tanzeemahmed777@gmail.com
+  
 
 social:
   name: Tanzeem Ahmed
