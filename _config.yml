@@ -1,10 +1,8 @@
 title: Tanzeem Ahmed
 description: Personal site of Tanzeem Ahmed – Young Entrepreneur from Bangladesh
-url: "https://tanzeemahmedentrepreneur.github.io/tanzeemahmed"
+url: "https://github.com/TanzeemAhmedEntrepreneur/tanzeemahmed"
 baseurl: ""
 
-# Optional: Use a minimal theme OR define your own layout files
-# If using custom layouts, comment out the next line
 theme: jekyll-theme-cayman
 
 plugins:
