@@ -1,15 +1,23 @@
 # _config.yml
 title: Tanzeem Ahmed
-description: "16-year-old Entrepreneur | Founder of Gadget Bikreta and ThreadVerse Co."
-theme: jekyll-theme-cayman
+description: Personal site of Tanzeem Ahmed – Young Entrepreneur from Bangladesh
+url: "https://tanzeemahmedentrepreneur.github.io/tanzeemahmed/"
+baseurl: "" # leave empty for root
 
-social_links:
-  - icon: "fa fa-facebook"
-    url: "https://facebook.com/tanzeem.ahmed.sakib"
-  - icon: "fa fa-instagram"
-    url: "https://instagram.com/tanzeem.ahmed_sadman"
-  - icon: "fa fa-linkedin"
-    url: "https://www.linkedin.com/in/tanzeem-ahmed-sakib/"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-paginate: 5
-paginate_path: "/page:num/"
+author:
+  name: Tanzeem Ahmed
+  email: tanzeemahmed777@gmail.com
+
+# SEO settings
+social:
+  name: Tanzeem Ahmed
+  links:
+- [Facebook](https://www.facebook.com/tanzeem.ahmed.sakib)
+- [Instagram](https://www.instagram.com/tanzeem.ahmed_sadman)
+- [LinkedIn](https://www.linkedin.com/in/tanzeem-ahmed-sakib/)
+
