@@ -5,7 +5,7 @@ baseurl: ""
 
 # Optional: Use a minimal theme OR define your own layout files
 # If using custom layouts, comment out the next line
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-seo-tag
