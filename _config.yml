@@ -1,6 +1,6 @@
 title: Tanzeem Ahmed
 description: A professional portfolio and personal site showcasing the journey of Tanzeem Ahmed, an entrepreneur, and innovator.
-url: https://your-username.github.io
+url: https://tanzeemahmedentrepreneur.github.io
 baseurl: ""
 author: Tanzeem Ahmed
 
@@ -14,7 +14,7 @@ social_links:
     url: https://www.linkedin.com/in/tanzeem-ahmed-sakib/
 
 # Theme settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 # Navigation settings
 navbar:
